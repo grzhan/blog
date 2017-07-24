@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-themia"]
+	path = themes/hexo-theme-themia
+	url = https://github.com/grzhan/hexo-theme-themia
