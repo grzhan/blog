@@ -18,3 +18,6 @@ photos:
 在正式开始写东西之前需要先测试一下。
 
 顺便说一句，CoCo真的太赞啦wwwwwww
+
+
+{% aplayer "Caffeine" "Jeff Williams" "caffeine.mp3" "caffeine.jpeg" "lrc:caffeine.txt" "width:70%" %}

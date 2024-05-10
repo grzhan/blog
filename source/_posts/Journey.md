@@ -19,6 +19,8 @@ photos:
 
 它们就如同《风之旅人》里的旅伴与风景，是我的旅程中很重要的一部分。
 
+{% aplayer "アイロニ" "鹿乃" "irony.mp3" "irony.jpg" "autoplay" %}
+
 
 
 <!-- toc -->
